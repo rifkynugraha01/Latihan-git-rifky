@@ -1,1 +1,2 @@
-NIM : F1B250017
+Nama : Rifky Nugraha
+
